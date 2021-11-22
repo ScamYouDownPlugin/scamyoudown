@@ -3,7 +3,7 @@ Duel Arena plugin to scam people. Pioneered by ScamYouDown (MoeYouDown)
 
 The plugin is in a broken state and will not be fixed. It is going to remain broken as the duel arena is going away.
 
-Special thanks to Moe You Down for publishing to the world that this scam was possible. Thanks to Don Crypto and his developer for writing shitty code that was easy to spot.
+Special thanks to Moe You Down for publishing to the world that this scam was possible. Thanks to his developer for writing shitty code that was easy to spot.
 
 # Proof section
 The proof is in these two pictures.
