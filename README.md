@@ -36,6 +36,6 @@ https://www.youtube.com/watch?v=r5GkOG5njAc
 Nothing I have written here is a lie. It was only ever created for educational purposes. It was never shownd, bought or sold to anybody. Anybody claiming otherwise is wrong. 
 
 # Special thanks
-Special thanks to Crumb and his attempts to enlighten the world that these plugins do exist. (Not just this one, but the one Moe used, the one Elite Ranks uses and the ones that Stella and other debt streamers use to funnel hundreds of billions of gold away from the community. 
+Special thanks to Crumb and his attempts to enlighten the world that these plugins do exist. Not just this one, but the one Moe used, the one Elite Ranks uses and the ones that Stella and other debt streamers use to funnel hundreds of billions of gold away from the community. 
 
 Commentary of time stamps lifted from reddit post: https://www.reddit.com/r/2007scape/comments/jgfwgm/popular_twitch_streamer_moeyoudown_scamming/
