@@ -1,9 +1,11 @@
+Edit (3/1/2022) - Don Krypto has taken this similar plugin out of the duel arena and has moved onto Death Matches where players fight with equal gear but the streamer can hide the fact they have odds. Do not trust Elite DMs or anything associated with him. 
+
 # scamyoudown
 Duel Arena plugin to scam people. Pioneered by ScamYouDown (MoeYouDown)
 
 The plugin is in a broken state and will not be fixed. It is going to remain broken as the duel arena is going away.
 
-Special thanks to Moe You Down for publishing to the world that this scam was possible. Thanks to his developer for writing shitty code that was easy to spot.
+Special thanks to Moe You Down for publishing to the world that this scam was possible. Thanks to his developer for writing shitty code that was easy to spot. Funded by Don Krypto and his co-conspirators. Shouldv'e been paid more to hire a good developer. 
 
 # Proof section
 The proof is in these two pictures.
